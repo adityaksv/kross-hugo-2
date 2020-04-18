@@ -1,4 +1,4 @@
-baseURL = "http://www.varnalabs.in"
+baseURL = "https://www.varnalabs.in"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
