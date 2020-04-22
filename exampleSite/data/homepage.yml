@@ -114,7 +114,7 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
-  - logo: ''
+  - logo: VIF
     URL: vif.png
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
