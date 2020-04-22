@@ -115,7 +115,7 @@ clients_logo_slider:
   enable: true
   item:
   - logo: images/vif.png
-    URL: images/vif.png
+    URL: "#"
 blog:
   enable: true
   title: Blogs
