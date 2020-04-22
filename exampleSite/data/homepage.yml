@@ -116,7 +116,7 @@ clients_logo_slider:
   item:
   - logo: Aditya
     URL: I WANT VIF LOGO HJERE
-  - logo: images/vif.png
+  - logo: VIF
     URL: images/vif.png
 blog:
   enable: true
