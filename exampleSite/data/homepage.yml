@@ -115,6 +115,8 @@ clients_logo_slider:
   enable: true
   item:
   - logo: images/vif.png
+    URL: images/vif.png
+  - logo: images/vif.png
     URL: "#"
   - logo: images/vif.png
     URL: "#"
