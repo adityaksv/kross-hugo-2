@@ -116,6 +116,8 @@ clients_logo_slider:
   item:
   - logo: images/vif.png
     URL: images/vif.png
+  - logo: images/vif.png
+    URL: images/vif.png
   - logo: VIF
     URL: images/vif.png
 blog:
