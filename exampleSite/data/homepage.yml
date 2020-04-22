@@ -114,7 +114,7 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
-  - logo: Aditya
+  - logo: images/vif.png
     URL: images/vif.png
   - logo: VIF
     URL: images/vif.png
