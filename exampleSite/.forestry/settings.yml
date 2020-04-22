@@ -39,7 +39,7 @@ sections:
   match: "*.toml"
   new_doc_ext: toml
 upload_dir: static/images
-public_path: "/images"
+public_path: exampleSite/static/images
 front_matter_path: "/images"
 use_front_matter_path: false
 file_template: ":filename:"
