@@ -115,9 +115,9 @@ clients_logo_slider:
   enable: true
   item:
   - logo: Aditya
-    URL: https://placeitmarketing.s3.amazonaws.com/public/custompages/logo-maker/Esports-Logo-Maker.png
-  - logo: images/clients-logo/client-logo-5.png
-    URL: "#"
+    URL: I WANT VIF LOGO HJERE
+  - logo: images/vif.png
+    URL: images/vif.png
 blog:
   enable: true
   title: Blogs
