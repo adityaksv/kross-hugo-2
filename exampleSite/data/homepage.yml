@@ -114,15 +114,27 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
+  - logo: images/aastha.png
+    URL: "#"
+  - logo: images/eagle.png
+    URL: "#"
+  - logo: images/gendig.png
+    URL: "#"
+  - logo: images/sewa.png
+    URL: "#"
+  - logo: images/yfs.png
+    URL: "#"
+  - logo: images/DrReddy.png
+    URL: "#"
   - logo: images/vif.png
     URL: images/vif.png
-  - logo: images/vif.png
+  - logo: images/nissan.png
     URL: "#"
-  - logo: images/vif.png
+  - logo: images/mercedez.png
     URL: "#"
-  - logo: images/vif.png
+  - logo: images/unicef.png
     URL: "#"
-  - logo: images/vif.png
+  - logo: images/apgovt.png
     URL: "#"
   title: Our Clients
 blog:
