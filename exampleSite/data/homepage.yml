@@ -70,7 +70,7 @@ service:
   - title: Graphic Design
     icon: ti-palette
     content: Have an idea that needs to be represented visually? We can help you do
-      that. Print, digital and conceptual designs. We do them all.
+      that. Print, digital, social media and conceptual designs. We do them all.
     highlighted: false
   - title: Video Design
     icon: ti-video
