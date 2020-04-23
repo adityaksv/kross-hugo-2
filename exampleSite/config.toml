@@ -20,15 +20,15 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+address = "Hyderabad | Rishikesh | Delhi"
+author = "Aditya Kesanupalli"
+copyright = "Copyright &copy; 2020 a website by [Varnalabs](https://www.varnalabs.in)"
+description = "Varnalabs Creative Design Agency"
+email = "aditya@varnalabs.in"
 google_analytics_id = ""
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
+phone = "+91 9176 333 857"
 theme_color = "#41228e"
 [params.contact]
 enable = true
@@ -51,14 +51,14 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
+URL = "www.facebook.com/varnalabs"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
+URL = "www.instagram.com/varnalabs"
 icon = "ti-instagram"
 [[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
+URL = "www.twitter.com/varnalabs"
 icon = "ti-twitter-alt"
+[[params.social]]
+URL = "www.linkedin.com/varnalabs"
+icon = "ti-linkedin"
