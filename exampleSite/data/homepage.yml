@@ -67,10 +67,6 @@ service:
   enable: true
   title: Services
   item:
-  - title: ''
-    icon: ''
-    content: ''
-    highlighted: ''
   - title: Graphic Design
     icon: ti-palette
     content: Have an idea that needs to be represented visually? We can help you do
@@ -81,6 +77,11 @@ service:
     content: Bring your ideas to life as videos. We cover the entire spectrum from
       shooting, editing, special effects and animation.
     highlighted: true
+  - title: Web Design
+    icon: ti-www
+    content: Make your presence felt by a website for your ideas, organisations and
+      your own portfolio. Coded or CMS. You decide, We design.
+    highlighted: ''
   - title: App Design
     icon: ti-panel
     content: Plan to have an app for your mobile or website? We develop apps from
