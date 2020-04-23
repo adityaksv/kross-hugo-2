@@ -67,10 +67,14 @@ service:
   enable: true
   title: Services
   item:
-  - title: UI Design
+  - title: ''
+    icon: ''
+    content: ''
+    highlighted: ''
+  - title: Graphic Design
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Have an idea that needs to be represented visually? We can help you do
+      that. Print, digital and conceptual designs. We do them all.
     highlighted: false
   - title: UX Design
     icon: ti-vector
