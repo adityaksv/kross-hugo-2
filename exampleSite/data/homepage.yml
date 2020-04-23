@@ -3,13 +3,14 @@ banner:
   title: We are <br> Varnalabs
 about:
   enable: true
-  content: "<h3>Varnalabs - Creative Design Agency</h3>\n                    <p> We
-    are a design agency based in India, who strive to to solve persistant problems
-    with a touch of creativity and logic.</p>\n\t\t\t\t\t<blockquote>\"Every child
-    is an artist. The problem is how to remain an artist as we grow up\" - Pablo Picasso</blockquote>\n
-    \                   <p> We seek our inspiration from children - quick and honest
-    in responses, curious to learn more and incredibly efficient in everything they
-    do.</p>"
+  content: |-
+    We are a design agency based in India, who strive to to solve persistant problems with a touch of creativity and logic.
+
+    "Every child is an artist. The problem is how to remain an artist as we grow up" - Pablo Picasso
+
+    We seek our inspiration from children - quick and honest in responses, curious to learn more and incredibly efficient in everything they do.
+
+    Note: We certainly listen to our clients though. No worries!
   button:
     enable: true
     label: know more
