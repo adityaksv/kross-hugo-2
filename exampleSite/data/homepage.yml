@@ -76,15 +76,15 @@ service:
     content: Have an idea that needs to be represented visually? We can help you do
       that. Print, digital and conceptual designs. We do them all.
     highlighted: false
-  - title: UX Design
+  - title: App Design
     icon: ti-vector
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: true
-  - title: Interaction Design
+  - title: App Design
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Plan to have an app for your mobile or website? We develop apps from
+      scratch for all platforms and on all devices.
     highlighted: false
 portfolio:
   enable: true
