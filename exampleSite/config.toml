@@ -27,7 +27,7 @@ description = "Varnalabs Creative Design Agency"
 email = "aditya@varnalabs.in"
 google_analytics_id = ""
 home = "Home"
-logo = "images/VL-Logo-white.png"
+logo = "images/VL-Logo.png"
 phone = "+91 9176 333 857"
 theme_color = "#41228e"
 [params.contact]
